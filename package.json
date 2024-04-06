@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@effect/platform": "^0.48.26",
+    "@effect/platform-node": "^0.45.28",
+    "effect": "^2.4.18",
+    "next": "14.1.4",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.4"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "typescript": "^5",
